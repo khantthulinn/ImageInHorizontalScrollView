@@ -1,4 +1,4 @@
-# ImageInHorizontalScrollView
+# Images In Horizontal Scroll view
 ### Description
 
 Allow to show images from web in horizontal scrollview using EgoImageView and tap on image to show full screen image. 
